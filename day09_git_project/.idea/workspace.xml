@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4308de02-f843-466b-91d8-30f751a3f5ff" name="Default Changelist" comment="提交5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4308de02-f843-466b-91d8-30f751a3f5ff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602303951931</updated>
       <workItem from="1602303953683" duration="950000" />
-      <workItem from="1602306111729" duration="1701000" />
+      <workItem from="1602306111729" duration="1978000" />
     </task>
     <task id="LOCAL-00001" summary="提交3">
       <created>1602306573254</created>
@@ -116,7 +112,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602307102192</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交User2">
+      <created>1602307867980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602307867980</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交User2 第一次">
+      <created>1602307950652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602307950652</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交User3 第一次">
+      <created>1602308066495</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602308066495</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,28 +143,39 @@
     <MESSAGE value="提交3" />
     <MESSAGE value="提交4" />
     <MESSAGE value="提交5" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交5" />
+    <MESSAGE value="提交User2" />
+    <MESSAGE value="提交User2 第一次" />
+    <MESSAGE value="提交User3 第一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交User3 第一次" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602306417376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602306417376" />
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1602307948928">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1602308065083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602307948928" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602308065083" />
+    <state x="129" y="54" key="DiffContextDialog" timestamp="1602308182117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1602308182117" />
     <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1602304177384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602304177384" />
+    <state x="379" y="87" key="RollbackChangesDialog" timestamp="1602308154864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="87" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602308154864" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1602306725716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602306725716" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1602308014811">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1602308243978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602308014811" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602308243978" />
   </component>
 </project>

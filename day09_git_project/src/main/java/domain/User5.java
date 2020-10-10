@@ -1,6 +1,6 @@
 package domain;
 
-public class User3 {
+public class User5 {
     private Integer id;
     private String name;
     private String address;
