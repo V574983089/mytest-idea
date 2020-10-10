@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4308de02-f843-466b-91d8-30f751a3f5ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/day09_git_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -88,25 +85,45 @@
       <option name="presentableId" value="Default" />
       <updated>1602303951931</updated>
       <workItem from="1602303953683" duration="950000" />
-      <workItem from="1602306111729" duration="245000" />
+      <workItem from="1602306111729" duration="494000" />
     </task>
+    <task id="LOCAL-00001" summary="提交3">
+      <created>1602306573254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602306573254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交3" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602306417376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602306417376" />
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1602304919637">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1602306571894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602304919637" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602306571894" />
     <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1602304177384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602304177384" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1602306725716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602306725716" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1602306787034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602306787034" />
   </component>
 </project>
